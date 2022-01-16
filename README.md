@@ -3,6 +3,9 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=300&section=header&text=A%20Yeong&fontSize=90)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiAYeong&show_icons=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=f7f5f5&bg_color=DEG,d2dae9,d9cfde,facfcf&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ***
+  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816)](https://solved.ac/cdd8816)
   
 ### 📚STACKS
