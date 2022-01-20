@@ -1,6 +1,6 @@
 # Hi👋
 
-<div align=center>
+<div align = center>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpmh&show_icons=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=f7f5f5&bg_color=DEG,facfcf,d9cfde,d2dae9&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -9,7 +9,7 @@
   ***
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816)](https://solved.ac/cdd8816)
-  
+
 </div>
 
 <!--
