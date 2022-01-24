@@ -5,7 +5,7 @@
   
   ### <em>I was born in Korea and majored in in information security.</em>
   
-  <img src="https://media.giphy.com/media/11yOJQAwxz5TSE/giphy.gif">
+  <img src="https://media.giphy.com/media/11yOJQAwxz5TSE/giphy.gif" width="500">
 
 <div align = center>
   
