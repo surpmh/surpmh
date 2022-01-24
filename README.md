@@ -1,14 +1,17 @@
 # Hi👋
 
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816)](https://solved.ac/cdd8816)
+
+
+   ***
 <div align = center>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpmh&show_icons=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=f7f5f5&bg_color=DEG,facfcf,d9cfde,d2dae9&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surpmh&show_icons=true&title_color=f7f5f5&text_color=f7f5f5&icon_color=f7f5f5&bg_color=DEG,E84A5F,FF847C,FECEAB&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiAYeong&count_bg=%23F5E6EB&title_bg=%23FACFCF&icon=reverbnation.svg&icon_color=%23FEF0D6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-  ***
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816)](https://solved.ac/cdd8816)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiAYeong&count_bg=%23FF847C&title_bg=%23E84A5F&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
+  <img src="https://img.shields.io/badge/Visual Studio Code-FF847C?style=flat&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FF847C?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Elastic-FF847C?style=flat&logo=Elastic&logoColor=white">
 
 </div>
 
