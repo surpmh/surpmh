@@ -3,7 +3,7 @@
 
   <a href="https://solved.ac/cdd8816"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816"></a>
   
-  ### <em>I was born in Korea and majored in in information security.</em>
+  ### <em>I was born in Korea and majored in information security.</em>
   
   <img src="https://media.giphy.com/media/11yOJQAwxz5TSE/giphy.gif" width="300">
 
