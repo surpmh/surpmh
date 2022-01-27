@@ -2,7 +2,7 @@
 
   <a href="https://solved.ac/cdd8816"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816"></a>
   
-  ### <em>I was born in Korea and majored in information security.</em>
+  ### <em>I majored in information security and am currently preparing for employment. We will continue to grow through constant self-development with passion. I hope everyone supports me. Thank you.</em>
   
   <img src="https://media.giphy.com/media/11yOJQAwxz5TSE/giphy.gif" width="300">
 
