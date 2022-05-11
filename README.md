@@ -1,4 +1,5 @@
-# Hi, I'm Ayeong Choi<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" height="50">
+<!-- Hi, I'm Ayeong Choi<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" height="50"> -->
+# 안녕하세요🤗
 
   <a href="https://solved.ac/cdd8816"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cdd8816"></a>
   
